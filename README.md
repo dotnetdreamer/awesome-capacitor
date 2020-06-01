@@ -1,4 +1,4 @@
-# awesome-capacitor
+# Awesome Capacitor
 A curated list of awesome articles, plugins, and resources for Capacitor (by Ionic Team) in one place.
 
 # General
