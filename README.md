@@ -7,6 +7,8 @@ A curated list of awesome articles, plugins, and resources for Capacitor (by Ion
 * [Github Repository](https://github.com/ionic-team/capacitor)
 * [Community Plugins](https://github.com/capacitor-community)
 
-# Open source apps
+# Demos and Projects
+
+### Open Source Apps
 * [Expense Tracker (Money Tracker)](https://github.com/dotnetdreamer/personal-expense-tracker)
 
